@@ -1,0 +1,1581 @@
+Entity,Code,Year,extensive_agriculture
+Afghanistan,AFG,-8000,None
+Afghanistan,AFG,-6000,Minimal
+Afghanistan,AFG,-4000,Common
+Afghanistan,AFG,-2000,Common
+Afghanistan,AFG,-1000,Common
+Afghanistan,AFG,0,Common
+Afghanistan,AFG,1000,Common
+Afghanistan,AFG,1500,Common
+Afghanistan,AFG,1750,Common
+Afghanistan,AFG,1850,Common
+Albania,ALB,-8000,None
+Albania,ALB,-6000,Common
+Albania,ALB,-4000,Common
+Albania,ALB,-2000,Common
+Albania,ALB,-1000,Common
+Albania,ALB,0,Widespread
+Albania,ALB,1000,Common
+Albania,ALB,1500,Common
+Albania,ALB,1750,Common
+Albania,ALB,1850,Common
+Algeria,DZA,-8000,None
+Algeria,DZA,-6000,None
+Algeria,DZA,-4000,Minimal
+Algeria,DZA,-2000,Minimal
+Algeria,DZA,-1000,Common
+Algeria,DZA,0,Common
+Algeria,DZA,1000,Common
+Algeria,DZA,1500,Common
+Algeria,DZA,1750,Common
+Algeria,DZA,1850,Common
+Angola,AGO,-8000,None
+Angola,AGO,-6000,None
+Angola,AGO,-4000,None
+Angola,AGO,-2000,None
+Angola,AGO,-1000,Minimal
+Angola,AGO,0,Common
+Angola,AGO,1000,Common
+Angola,AGO,1500,Widespread
+Angola,AGO,1750,Widespread
+Angola,AGO,1850,Widespread
+Antigua and Barbuda,ATG,-8000,None
+Antigua and Barbuda,ATG,-6000,None
+Antigua and Barbuda,ATG,-4000,None
+Antigua and Barbuda,ATG,-2000,Minimal
+Antigua and Barbuda,ATG,-1000,Minimal
+Antigua and Barbuda,ATG,0,Common
+Antigua and Barbuda,ATG,1000,Common
+Antigua and Barbuda,ATG,1500,Common
+Antigua and Barbuda,ATG,1750,Common
+Antigua and Barbuda,ATG,1850,Common
+Armenia,ARM,-8000,None
+Armenia,ARM,-6000,Common
+Armenia,ARM,-4000,Common
+Armenia,ARM,-2000,Common
+Armenia,ARM,-1000,Widespread
+Armenia,ARM,0,Common
+Armenia,ARM,1000,Common
+Armenia,ARM,1500,Minimal
+Armenia,ARM,1750,Minimal
+Armenia,ARM,1850,Minimal
+Aruba,ABW,-8000,None
+Aruba,ABW,-6000,None
+Aruba,ABW,-4000,None
+Aruba,ABW,-2000,Minimal
+Aruba,ABW,-1000,Minimal
+Aruba,ABW,0,Common
+Aruba,ABW,1000,Common
+Aruba,ABW,1500,Common
+Aruba,ABW,1750,Common
+Aruba,ABW,1850,Common
+Australia,AUS,-8000,None
+Australia,AUS,-6000,None
+Australia,AUS,-4000,None
+Australia,AUS,-2000,None
+Australia,AUS,-1000,None
+Australia,AUS,0,None
+Australia,AUS,1000,None
+Australia,AUS,1500,None
+Australia,AUS,1750,None
+Australia,AUS,1850,Common
+Austria,AUT,-8000,None
+Austria,AUT,-6000,None
+Austria,AUT,-4000,Widespread
+Austria,AUT,-2000,Widespread
+Austria,AUT,-1000,Widespread
+Austria,AUT,0,Widespread
+Austria,AUT,1000,Widespread
+Austria,AUT,1500,Widespread
+Austria,AUT,1750,Minimal
+Austria,AUT,1850,Minimal
+Azerbaijan,AZE,-8000,None
+Azerbaijan,AZE,-6000,Common
+Azerbaijan,AZE,-4000,Common
+Azerbaijan,AZE,-2000,Common
+Azerbaijan,AZE,-1000,Widespread
+Azerbaijan,AZE,0,Common
+Azerbaijan,AZE,1000,Common
+Azerbaijan,AZE,1500,Minimal
+Azerbaijan,AZE,1750,Minimal
+Azerbaijan,AZE,1850,Minimal
+Bahamas,BHS,-8000,None
+Bahamas,BHS,-6000,None
+Bahamas,BHS,-4000,None
+Bahamas,BHS,-2000,Minimal
+Bahamas,BHS,-1000,Minimal
+Bahamas,BHS,0,Common
+Bahamas,BHS,1000,Common
+Bahamas,BHS,1500,Common
+Bahamas,BHS,1750,Common
+Bahamas,BHS,1850,Common
+Bangladesh,BGD,-8000,None
+Bangladesh,BGD,-6000,None
+Bangladesh,BGD,-4000,None
+Bangladesh,BGD,-2000,Minimal
+Bangladesh,BGD,-1000,Minimal
+Bangladesh,BGD,0,Minimal
+Bangladesh,BGD,1000,Minimal
+Bangladesh,BGD,1500,Minimal
+Bangladesh,BGD,1750,Minimal
+Bangladesh,BGD,1850,Minimal
+Barbados,BRB,-8000,None
+Barbados,BRB,-6000,None
+Barbados,BRB,-4000,None
+Barbados,BRB,-2000,Minimal
+Barbados,BRB,-1000,Minimal
+Barbados,BRB,0,Common
+Barbados,BRB,1000,Common
+Barbados,BRB,1500,Common
+Barbados,BRB,1750,Common
+Barbados,BRB,1850,Common
+Belarus,BLR,-8000,None
+Belarus,BLR,-6000,None
+Belarus,BLR,-4000,None
+Belarus,BLR,-2000,Common
+Belarus,BLR,-1000,Common
+Belarus,BLR,0,Common
+Belarus,BLR,1000,Common
+Belarus,BLR,1500,Common
+Belarus,BLR,1750,Common
+Belarus,BLR,1850,Common
+Belgium,BEL,-8000,None
+Belgium,BEL,-6000,None
+Belgium,BEL,-4000,Widespread
+Belgium,BEL,-2000,Widespread
+Belgium,BEL,-1000,Widespread
+Belgium,BEL,0,Widespread
+Belgium,BEL,1000,Widespread
+Belgium,BEL,1500,Widespread
+Belgium,BEL,1750,Minimal
+Belgium,BEL,1850,Minimal
+Benin,BEN,-8000,None
+Benin,BEN,-6000,None
+Benin,BEN,-4000,None
+Benin,BEN,-2000,Minimal
+Benin,BEN,-1000,Minimal
+Benin,BEN,0,Common
+Benin,BEN,1000,Common
+Benin,BEN,1500,Minimal
+Benin,BEN,1750,Minimal
+Benin,BEN,1850,Minimal
+Bhutan,BTN,-8000,None
+Bhutan,BTN,-6000,None
+Bhutan,BTN,-4000,Minimal
+Bhutan,BTN,-2000,Common
+Bhutan,BTN,-1000,Common
+Bhutan,BTN,0,Common
+Bhutan,BTN,1000,Widespread
+Bhutan,BTN,1500,Widespread
+Bhutan,BTN,1750,Widespread
+Bhutan,BTN,1850,Widespread
+Bosnia and Herzegovina,BIH,-8000,None
+Bosnia and Herzegovina,BIH,-6000,Common
+Bosnia and Herzegovina,BIH,-4000,Common
+Bosnia and Herzegovina,BIH,-2000,Common
+Bosnia and Herzegovina,BIH,-1000,Common
+Bosnia and Herzegovina,BIH,0,Widespread
+Bosnia and Herzegovina,BIH,1000,Common
+Bosnia and Herzegovina,BIH,1500,Common
+Bosnia and Herzegovina,BIH,1750,Common
+Bosnia and Herzegovina,BIH,1850,Common
+Botswana,BWA,-8000,None
+Botswana,BWA,-6000,None
+Botswana,BWA,-4000,None
+Botswana,BWA,-2000,None
+Botswana,BWA,-1000,None
+Botswana,BWA,0,None
+Botswana,BWA,1000,Common
+Botswana,BWA,1500,Common
+Botswana,BWA,1750,Common
+Botswana,BWA,1850,Common
+Brazil,BRA,-8000,None
+Brazil,BRA,-6000,None
+Brazil,BRA,-4000,Minimal
+Brazil,BRA,-2000,Minimal
+Brazil,BRA,-1000,Common
+Brazil,BRA,0,Common
+Brazil,BRA,1000,Common
+Brazil,BRA,1500,Common
+Brazil,BRA,1750,Common
+Brazil,BRA,1850,Common
+Bulgaria,BGR,-8000,None
+Bulgaria,BGR,-6000,Common
+Bulgaria,BGR,-4000,Minimal
+Bulgaria,BGR,-2000,Minimal
+Bulgaria,BGR,-1000,Minimal
+Bulgaria,BGR,0,Minimal
+Bulgaria,BGR,1000,Common
+Bulgaria,BGR,1500,Minimal
+Bulgaria,BGR,1750,Minimal
+Bulgaria,BGR,1850,Minimal
+Burkina Faso,BFA,-8000,None
+Burkina Faso,BFA,-6000,None
+Burkina Faso,BFA,-4000,None
+Burkina Faso,BFA,-2000,Minimal
+Burkina Faso,BFA,-1000,Common
+Burkina Faso,BFA,0,Widespread
+Burkina Faso,BFA,1000,Minimal
+Burkina Faso,BFA,1500,Minimal
+Burkina Faso,BFA,1750,Minimal
+Burkina Faso,BFA,1850,Minimal
+Burundi,BDI,-8000,None
+Burundi,BDI,-6000,None
+Burundi,BDI,-4000,None
+Burundi,BDI,-2000,None
+Burundi,BDI,-1000,None
+Burundi,BDI,0,Common
+Burundi,BDI,1000,Common
+Burundi,BDI,1500,Widespread
+Burundi,BDI,1750,Widespread
+Burundi,BDI,1850,Widespread
+Cambodia,KHM,-8000,None
+Cambodia,KHM,-6000,None
+Cambodia,KHM,-4000,None
+Cambodia,KHM,-2000,Minimal
+Cambodia,KHM,-1000,Common
+Cambodia,KHM,0,Common
+Cambodia,KHM,1000,Common
+Cambodia,KHM,1500,Widespread
+Cambodia,KHM,1750,Widespread
+Cambodia,KHM,1850,Widespread
+Cameroon,CMR,-8000,None
+Cameroon,CMR,-6000,None
+Cameroon,CMR,-4000,None
+Cameroon,CMR,-2000,None
+Cameroon,CMR,-1000,Common
+Cameroon,CMR,0,Widespread
+Cameroon,CMR,1000,Widespread
+Cameroon,CMR,1500,Widespread
+Cameroon,CMR,1750,Widespread
+Cameroon,CMR,1850,Common
+Canada,CAN,-8000,None
+Canada,CAN,-6000,None
+Canada,CAN,-4000,None
+Canada,CAN,-2000,None
+Canada,CAN,-1000,None
+Canada,CAN,0,None
+Canada,CAN,1000,Common
+Canada,CAN,1500,Minimal
+Canada,CAN,1750,Minimal
+Canada,CAN,1850,Minimal
+Cayman Islands,CYM,-8000,None
+Cayman Islands,CYM,-6000,None
+Cayman Islands,CYM,-4000,None
+Cayman Islands,CYM,-2000,Minimal
+Cayman Islands,CYM,-1000,Minimal
+Cayman Islands,CYM,0,Common
+Cayman Islands,CYM,1000,Common
+Cayman Islands,CYM,1500,Common
+Cayman Islands,CYM,1750,Common
+Cayman Islands,CYM,1850,Common
+Central African Republic,CAF,-8000,None
+Central African Republic,CAF,-6000,None
+Central African Republic,CAF,-4000,None
+Central African Republic,CAF,-2000,None
+Central African Republic,CAF,-1000,None
+Central African Republic,CAF,0,Common
+Central African Republic,CAF,1000,Widespread
+Central African Republic,CAF,1500,Common
+Central African Republic,CAF,1750,Common
+Central African Republic,CAF,1850,Common
+Chad,TCD,-8000,None
+Chad,TCD,-6000,None
+Chad,TCD,-4000,None
+Chad,TCD,-2000,None
+Chad,TCD,-1000,None
+Chad,TCD,0,Common
+Chad,TCD,1000,Widespread
+Chad,TCD,1500,Common
+Chad,TCD,1750,Common
+Chad,TCD,1850,Common
+China,CHN,-8000,None
+China,CHN,-6000,Common
+China,CHN,-4000,Widespread
+China,CHN,-2000,Common
+China,CHN,-1000,Widespread
+China,CHN,0,Widespread
+China,CHN,1000,Common
+China,CHN,1500,Common
+China,CHN,1750,Common
+China,CHN,1850,Minimal
+Congo,COG,-8000,None
+Congo,COG,-6000,None
+Congo,COG,-4000,None
+Congo,COG,-2000,None
+Congo,COG,-1000,Common
+Congo,COG,0,Widespread
+Congo,COG,1000,Widespread
+Congo,COG,1500,Widespread
+Congo,COG,1750,Widespread
+Congo,COG,1850,Common
+Costa Rica,CRI,-8000,None
+Costa Rica,CRI,-6000,Minimal
+Costa Rica,CRI,-4000,Minimal
+Costa Rica,CRI,-2000,Common
+Costa Rica,CRI,-1000,Common
+Costa Rica,CRI,0,Widespread
+Costa Rica,CRI,1000,Widespread
+Costa Rica,CRI,1500,Widespread
+Costa Rica,CRI,1750,Widespread
+Costa Rica,CRI,1850,Widespread
+Cote d'Ivoire,CIV,-8000,None
+Cote d'Ivoire,CIV,-6000,None
+Cote d'Ivoire,CIV,-4000,None
+Cote d'Ivoire,CIV,-2000,None
+Cote d'Ivoire,CIV,-1000,None
+Cote d'Ivoire,CIV,0,Widespread
+Cote d'Ivoire,CIV,1000,Common
+Cote d'Ivoire,CIV,1500,Minimal
+Cote d'Ivoire,CIV,1750,Common
+Cote d'Ivoire,CIV,1850,Common
+Croatia,HRV,-8000,None
+Croatia,HRV,-6000,Common
+Croatia,HRV,-4000,Common
+Croatia,HRV,-2000,Common
+Croatia,HRV,-1000,Common
+Croatia,HRV,0,Widespread
+Croatia,HRV,1000,Common
+Croatia,HRV,1500,Common
+Croatia,HRV,1750,Common
+Croatia,HRV,1850,Common
+Curacao,CUW,-8000,None
+Curacao,CUW,-6000,None
+Curacao,CUW,-4000,None
+Curacao,CUW,-2000,Minimal
+Curacao,CUW,-1000,Minimal
+Curacao,CUW,0,Common
+Curacao,CUW,1000,Common
+Curacao,CUW,1500,Common
+Curacao,CUW,1750,Common
+Curacao,CUW,1850,Common
+Cyprus,CYP,-8000,Common
+Cyprus,CYP,-6000,Common
+Cyprus,CYP,-4000,Common
+Cyprus,CYP,-2000,Common
+Cyprus,CYP,-1000,Common
+Cyprus,CYP,0,Common
+Cyprus,CYP,1000,Common
+Cyprus,CYP,1500,Common
+Cyprus,CYP,1750,Common
+Cyprus,CYP,1850,Common
+Czechia,CZE,-8000,None
+Czechia,CZE,-6000,Common
+Czechia,CZE,-4000,Widespread
+Czechia,CZE,-2000,Widespread
+Czechia,CZE,-1000,Widespread
+Czechia,CZE,0,Widespread
+Czechia,CZE,1000,Widespread
+Czechia,CZE,1500,Widespread
+Czechia,CZE,1750,Widespread
+Czechia,CZE,1850,Widespread
+Democratic Republic of Congo,COD,-8000,None
+Democratic Republic of Congo,COD,-6000,None
+Democratic Republic of Congo,COD,-4000,None
+Democratic Republic of Congo,COD,-2000,None
+Democratic Republic of Congo,COD,-1000,None
+Democratic Republic of Congo,COD,0,Common
+Democratic Republic of Congo,COD,1000,Common
+Democratic Republic of Congo,COD,1500,Common
+Democratic Republic of Congo,COD,1750,Common
+Democratic Republic of Congo,COD,1850,Common
+Denmark,DNK,-8000,None
+Denmark,DNK,-6000,None
+Denmark,DNK,-4000,Widespread
+Denmark,DNK,-2000,Widespread
+Denmark,DNK,-1000,Widespread
+Denmark,DNK,0,Widespread
+Denmark,DNK,1000,Widespread
+Denmark,DNK,1500,Widespread
+Denmark,DNK,1750,Minimal
+Denmark,DNK,1850,Minimal
+Djibouti,DJI,-8000,None
+Djibouti,DJI,-6000,Minimal
+Djibouti,DJI,-4000,Minimal
+Djibouti,DJI,-2000,None
+Djibouti,DJI,-1000,Minimal
+Djibouti,DJI,0,Widespread
+Djibouti,DJI,1000,Common
+Djibouti,DJI,1500,Common
+Djibouti,DJI,1750,Common
+Djibouti,DJI,1850,Common
+Dominica,DMA,-8000,None
+Dominica,DMA,-6000,None
+Dominica,DMA,-4000,None
+Dominica,DMA,-2000,Minimal
+Dominica,DMA,-1000,Minimal
+Dominica,DMA,0,Common
+Dominica,DMA,1000,Common
+Dominica,DMA,1500,Common
+Dominica,DMA,1750,Common
+Dominica,DMA,1850,Common
+Dominican Republic,DOM,-8000,None
+Dominican Republic,DOM,-6000,None
+Dominican Republic,DOM,-4000,None
+Dominican Republic,DOM,-2000,Minimal
+Dominican Republic,DOM,-1000,Minimal
+Dominican Republic,DOM,0,Common
+Dominican Republic,DOM,1000,Common
+Dominican Republic,DOM,1500,Common
+Dominican Republic,DOM,1750,Common
+Dominican Republic,DOM,1850,Common
+Egypt,EGY,-8000,None
+Egypt,EGY,-6000,None
+Egypt,EGY,-4000,Common
+Egypt,EGY,-2000,Minimal
+Egypt,EGY,-1000,Minimal
+Egypt,EGY,0,Minimal
+Egypt,EGY,1000,Minimal
+Egypt,EGY,1500,Minimal
+Egypt,EGY,1750,Minimal
+Egypt,EGY,1850,Minimal
+Equatorial Guinea,GNQ,-8000,None
+Equatorial Guinea,GNQ,-6000,None
+Equatorial Guinea,GNQ,-4000,None
+Equatorial Guinea,GNQ,-2000,None
+Equatorial Guinea,GNQ,-1000,Common
+Equatorial Guinea,GNQ,0,Widespread
+Equatorial Guinea,GNQ,1000,Widespread
+Equatorial Guinea,GNQ,1500,Widespread
+Equatorial Guinea,GNQ,1750,Widespread
+Equatorial Guinea,GNQ,1850,Common
+Eritrea,ERI,-8000,None
+Eritrea,ERI,-6000,Minimal
+Eritrea,ERI,-4000,Minimal
+Eritrea,ERI,-2000,None
+Eritrea,ERI,-1000,Minimal
+Eritrea,ERI,0,Widespread
+Eritrea,ERI,1000,Common
+Eritrea,ERI,1500,Common
+Eritrea,ERI,1750,Common
+Eritrea,ERI,1850,Common
+Estonia,EST,-8000,None
+Estonia,EST,-6000,None
+Estonia,EST,-4000,Minimal
+Estonia,EST,-2000,Minimal
+Estonia,EST,-1000,Common
+Estonia,EST,0,Common
+Estonia,EST,1000,Common
+Estonia,EST,1500,Common
+Estonia,EST,1750,Common
+Estonia,EST,1850,Common
+Ethiopia,ETH,-8000,None
+Ethiopia,ETH,-6000,None
+Ethiopia,ETH,-4000,None
+Ethiopia,ETH,-2000,Minimal
+Ethiopia,ETH,-1000,Common
+Ethiopia,ETH,0,Common
+Ethiopia,ETH,1000,Common
+Ethiopia,ETH,1500,Common
+Ethiopia,ETH,1750,Widespread
+Ethiopia,ETH,1850,Widespread
+Finland,FIN,-8000,None
+Finland,FIN,-6000,None
+Finland,FIN,-4000,Minimal
+Finland,FIN,-2000,Minimal
+Finland,FIN,-1000,Common
+Finland,FIN,0,Common
+Finland,FIN,1000,Common
+Finland,FIN,1500,Common
+Finland,FIN,1750,Common
+Finland,FIN,1850,Common
+France,FRA,-8000,None
+France,FRA,-6000,None
+France,FRA,-4000,Common
+France,FRA,-2000,Common
+France,FRA,-1000,Common
+France,FRA,0,Common
+France,FRA,1000,Common
+France,FRA,1500,Common
+France,FRA,1750,Common
+France,FRA,1850,Common
+Gabon,GAB,-8000,None
+Gabon,GAB,-6000,None
+Gabon,GAB,-4000,None
+Gabon,GAB,-2000,None
+Gabon,GAB,-1000,Common
+Gabon,GAB,0,Widespread
+Gabon,GAB,1000,Widespread
+Gabon,GAB,1500,Widespread
+Gabon,GAB,1750,Widespread
+Gabon,GAB,1850,Common
+Gambia,GMB,-8000,None
+Gambia,GMB,-6000,None
+Gambia,GMB,-4000,None
+Gambia,GMB,-2000,None
+Gambia,GMB,-1000,None
+Gambia,GMB,0,Widespread
+Gambia,GMB,1000,Widespread
+Gambia,GMB,1500,Common
+Gambia,GMB,1750,Common
+Gambia,GMB,1850,Common
+Georgia,GEO,-8000,None
+Georgia,GEO,-6000,Common
+Georgia,GEO,-4000,Common
+Georgia,GEO,-2000,Common
+Georgia,GEO,-1000,Widespread
+Georgia,GEO,0,Common
+Georgia,GEO,1000,Common
+Georgia,GEO,1500,Minimal
+Georgia,GEO,1750,Minimal
+Georgia,GEO,1850,Minimal
+Germany,DEU,-8000,None
+Germany,DEU,-6000,None
+Germany,DEU,-4000,Widespread
+Germany,DEU,-2000,Widespread
+Germany,DEU,-1000,Widespread
+Germany,DEU,0,Widespread
+Germany,DEU,1000,Widespread
+Germany,DEU,1500,Widespread
+Germany,DEU,1750,Minimal
+Germany,DEU,1850,Minimal
+Ghana,GHA,-8000,None
+Ghana,GHA,-6000,None
+Ghana,GHA,-4000,None
+Ghana,GHA,-2000,Minimal
+Ghana,GHA,-1000,Minimal
+Ghana,GHA,0,Common
+Ghana,GHA,1000,Common
+Ghana,GHA,1500,Minimal
+Ghana,GHA,1750,Minimal
+Ghana,GHA,1850,Minimal
+Greece,GRC,-8000,None
+Greece,GRC,-6000,Common
+Greece,GRC,-4000,Common
+Greece,GRC,-2000,Common
+Greece,GRC,-1000,Common
+Greece,GRC,0,Widespread
+Greece,GRC,1000,Common
+Greece,GRC,1500,Common
+Greece,GRC,1750,Common
+Greece,GRC,1850,Common
+Greenland,GRL,-8000,None
+Greenland,GRL,-6000,None
+Greenland,GRL,-4000,None
+Greenland,GRL,-2000,None
+Greenland,GRL,-1000,None
+Greenland,GRL,0,None
+Greenland,GRL,1000,None
+Greenland,GRL,1500,None
+Greenland,GRL,1750,None
+Greenland,GRL,1850,None
+Grenada,GRD,-8000,None
+Grenada,GRD,-6000,None
+Grenada,GRD,-4000,None
+Grenada,GRD,-2000,Minimal
+Grenada,GRD,-1000,Minimal
+Grenada,GRD,0,Common
+Grenada,GRD,1000,Common
+Grenada,GRD,1500,Common
+Grenada,GRD,1750,Common
+Grenada,GRD,1850,Common
+Guinea,GIN,-8000,None
+Guinea,GIN,-6000,None
+Guinea,GIN,-4000,None
+Guinea,GIN,-2000,None
+Guinea,GIN,-1000,None
+Guinea,GIN,0,Widespread
+Guinea,GIN,1000,Common
+Guinea,GIN,1500,Minimal
+Guinea,GIN,1750,Common
+Guinea,GIN,1850,Common
+Guinea-Bissau,GNB,-8000,None
+Guinea-Bissau,GNB,-6000,None
+Guinea-Bissau,GNB,-4000,None
+Guinea-Bissau,GNB,-2000,None
+Guinea-Bissau,GNB,-1000,None
+Guinea-Bissau,GNB,0,Widespread
+Guinea-Bissau,GNB,1000,Widespread
+Guinea-Bissau,GNB,1500,Common
+Guinea-Bissau,GNB,1750,Common
+Guinea-Bissau,GNB,1850,Common
+Guyana,GUY,-8000,None
+Guyana,GUY,-6000,None
+Guyana,GUY,-4000,None
+Guyana,GUY,-2000,Minimal
+Guyana,GUY,-1000,Minimal
+Guyana,GUY,0,Common
+Guyana,GUY,1000,Common
+Guyana,GUY,1500,Common
+Guyana,GUY,1750,Common
+Guyana,GUY,1850,Common
+Haiti,HTI,-8000,None
+Haiti,HTI,-6000,None
+Haiti,HTI,-4000,None
+Haiti,HTI,-2000,Minimal
+Haiti,HTI,-1000,Minimal
+Haiti,HTI,0,Common
+Haiti,HTI,1000,Common
+Haiti,HTI,1500,Common
+Haiti,HTI,1750,Common
+Haiti,HTI,1850,Common
+Honduras,HND,-8000,None
+Honduras,HND,-6000,Minimal
+Honduras,HND,-4000,Minimal
+Honduras,HND,-2000,Common
+Honduras,HND,-1000,Common
+Honduras,HND,0,Widespread
+Honduras,HND,1000,Widespread
+Honduras,HND,1500,Widespread
+Honduras,HND,1750,Widespread
+Honduras,HND,1850,Widespread
+Hungary,HUN,-8000,None
+Hungary,HUN,-6000,Common
+Hungary,HUN,-4000,Widespread
+Hungary,HUN,-2000,Widespread
+Hungary,HUN,-1000,Widespread
+Hungary,HUN,0,Widespread
+Hungary,HUN,1000,Widespread
+Hungary,HUN,1500,Widespread
+Hungary,HUN,1750,Widespread
+Hungary,HUN,1850,Widespread
+Iceland,ISL,-8000,None
+Iceland,ISL,-6000,None
+Iceland,ISL,-4000,None
+Iceland,ISL,-2000,None
+Iceland,ISL,-1000,None
+Iceland,ISL,0,None
+Iceland,ISL,1000,Minimal
+Iceland,ISL,1500,Minimal
+Iceland,ISL,1750,Minimal
+Iceland,ISL,1850,Minimal
+India,IND,-8000,None
+India,IND,-6000,Minimal
+India,IND,-4000,Common
+India,IND,-2000,Common
+India,IND,-1000,Common
+India,IND,0,Common
+India,IND,1000,Widespread
+India,IND,1500,Common
+India,IND,1750,Common
+India,IND,1850,Common
+Indonesia,IDN,-8000,None
+Indonesia,IDN,-6000,None
+Indonesia,IDN,-4000,Minimal
+Indonesia,IDN,-2000,Minimal
+Indonesia,IDN,-1000,Common
+Indonesia,IDN,0,Widespread
+Indonesia,IDN,1000,Common
+Indonesia,IDN,1500,Minimal
+Indonesia,IDN,1750,Minimal
+Indonesia,IDN,1850,Minimal
+Iran,IRN,-8000,Minimal
+Iran,IRN,-6000,Minimal
+Iran,IRN,-4000,Common
+Iran,IRN,-2000,Common
+Iran,IRN,-1000,Common
+Iran,IRN,0,Common
+Iran,IRN,1000,Common
+Iran,IRN,1500,Common
+Iran,IRN,1750,Common
+Iran,IRN,1850,Common
+Iraq,IRQ,-8000,Minimal
+Iraq,IRQ,-6000,Minimal
+Iraq,IRQ,-4000,Common
+Iraq,IRQ,-2000,Common
+Iraq,IRQ,-1000,Common
+Iraq,IRQ,0,Common
+Iraq,IRQ,1000,Minimal
+Iraq,IRQ,1500,Minimal
+Iraq,IRQ,1750,Minimal
+Iraq,IRQ,1850,Minimal
+Israel,ISR,-8000,Common
+Israel,ISR,-6000,Common
+Israel,ISR,-4000,Common
+Israel,ISR,-2000,Common
+Israel,ISR,-1000,Common
+Israel,ISR,0,Common
+Israel,ISR,1000,Common
+Israel,ISR,1500,Common
+Israel,ISR,1750,Common
+Israel,ISR,1850,Common
+Jamaica,JAM,-8000,None
+Jamaica,JAM,-6000,None
+Jamaica,JAM,-4000,None
+Jamaica,JAM,-2000,Minimal
+Jamaica,JAM,-1000,Minimal
+Jamaica,JAM,0,Common
+Jamaica,JAM,1000,Common
+Jamaica,JAM,1500,Common
+Jamaica,JAM,1750,Common
+Jamaica,JAM,1850,Common
+Japan,JPN,-8000,None
+Japan,JPN,-6000,Minimal
+Japan,JPN,-4000,Minimal
+Japan,JPN,-2000,Minimal
+Japan,JPN,-1000,Minimal
+Japan,JPN,0,Common
+Japan,JPN,1000,Widespread
+Japan,JPN,1500,Common
+Japan,JPN,1750,Common
+Japan,JPN,1850,Common
+Jordan,JOR,-8000,Common
+Jordan,JOR,-6000,Common
+Jordan,JOR,-4000,Common
+Jordan,JOR,-2000,Common
+Jordan,JOR,-1000,Common
+Jordan,JOR,0,Common
+Jordan,JOR,1000,Common
+Jordan,JOR,1500,Common
+Jordan,JOR,1750,Common
+Jordan,JOR,1850,Common
+Kazakhstan,KAZ,-8000,None
+Kazakhstan,KAZ,-6000,None
+Kazakhstan,KAZ,-4000,None
+Kazakhstan,KAZ,-2000,Minimal
+Kazakhstan,KAZ,-1000,Common
+Kazakhstan,KAZ,0,Widespread
+Kazakhstan,KAZ,1000,Widespread
+Kazakhstan,KAZ,1500,Widespread
+Kazakhstan,KAZ,1750,Widespread
+Kazakhstan,KAZ,1850,Widespread
+Kenya,KEN,-8000,None
+Kenya,KEN,-6000,None
+Kenya,KEN,-4000,None
+Kenya,KEN,-2000,None
+Kenya,KEN,-1000,None
+Kenya,KEN,0,Minimal
+Kenya,KEN,1000,Common
+Kenya,KEN,1500,Widespread
+Kenya,KEN,1750,Widespread
+Kenya,KEN,1850,Widespread
+Kosovo,OWID_KOS,-8000,None
+Kosovo,OWID_KOS,-6000,Common
+Kosovo,OWID_KOS,-4000,Common
+Kosovo,OWID_KOS,-2000,Common
+Kosovo,OWID_KOS,-1000,Common
+Kosovo,OWID_KOS,0,Widespread
+Kosovo,OWID_KOS,1000,Common
+Kosovo,OWID_KOS,1500,Common
+Kosovo,OWID_KOS,1750,Common
+Kosovo,OWID_KOS,1850,Common
+Kyrgyzstan,KGZ,-8000,None
+Kyrgyzstan,KGZ,-6000,None
+Kyrgyzstan,KGZ,-4000,None
+Kyrgyzstan,KGZ,-2000,Widespread
+Kyrgyzstan,KGZ,-1000,Widespread
+Kyrgyzstan,KGZ,0,Common
+Kyrgyzstan,KGZ,1000,Common
+Kyrgyzstan,KGZ,1500,Widespread
+Kyrgyzstan,KGZ,1750,Widespread
+Kyrgyzstan,KGZ,1850,Common
+Laos,LAO,-8000,None
+Laos,LAO,-6000,None
+Laos,LAO,-4000,Minimal
+Laos,LAO,-2000,Common
+Laos,LAO,-1000,Common
+Laos,LAO,0,Widespread
+Laos,LAO,1000,Widespread
+Laos,LAO,1500,Widespread
+Laos,LAO,1750,Widespread
+Laos,LAO,1850,Widespread
+Latvia,LVA,-8000,None
+Latvia,LVA,-6000,None
+Latvia,LVA,-4000,Minimal
+Latvia,LVA,-2000,Minimal
+Latvia,LVA,-1000,Common
+Latvia,LVA,0,Common
+Latvia,LVA,1000,Common
+Latvia,LVA,1500,Common
+Latvia,LVA,1750,Common
+Latvia,LVA,1850,Common
+Lebanon,LBN,-8000,Common
+Lebanon,LBN,-6000,Common
+Lebanon,LBN,-4000,Common
+Lebanon,LBN,-2000,Common
+Lebanon,LBN,-1000,Common
+Lebanon,LBN,0,Common
+Lebanon,LBN,1000,Common
+Lebanon,LBN,1500,Common
+Lebanon,LBN,1750,Common
+Lebanon,LBN,1850,Common
+Liberia,LBR,-8000,None
+Liberia,LBR,-6000,None
+Liberia,LBR,-4000,None
+Liberia,LBR,-2000,None
+Liberia,LBR,-1000,None
+Liberia,LBR,0,Widespread
+Liberia,LBR,1000,Common
+Liberia,LBR,1500,Minimal
+Liberia,LBR,1750,Common
+Liberia,LBR,1850,Common
+Libya,LBY,-8000,None
+Libya,LBY,-6000,None
+Libya,LBY,-4000,Minimal
+Libya,LBY,-2000,Common
+Libya,LBY,-1000,Common
+Libya,LBY,0,Common
+Libya,LBY,1000,Common
+Libya,LBY,1500,Widespread
+Libya,LBY,1750,Widespread
+Libya,LBY,1850,Widespread
+Liechtenstein,LIE,-8000,None
+Liechtenstein,LIE,-6000,None
+Liechtenstein,LIE,-4000,Widespread
+Liechtenstein,LIE,-2000,Widespread
+Liechtenstein,LIE,-1000,Widespread
+Liechtenstein,LIE,0,Widespread
+Liechtenstein,LIE,1000,Widespread
+Liechtenstein,LIE,1500,Widespread
+Liechtenstein,LIE,1750,Minimal
+Liechtenstein,LIE,1850,Minimal
+Lithuania,LTU,-8000,None
+Lithuania,LTU,-6000,None
+Lithuania,LTU,-4000,Minimal
+Lithuania,LTU,-2000,Minimal
+Lithuania,LTU,-1000,Common
+Lithuania,LTU,0,Common
+Lithuania,LTU,1000,Common
+Lithuania,LTU,1500,Common
+Lithuania,LTU,1750,Common
+Lithuania,LTU,1850,Common
+Luxembourg,LUX,-8000,None
+Luxembourg,LUX,-6000,None
+Luxembourg,LUX,-4000,Widespread
+Luxembourg,LUX,-2000,Widespread
+Luxembourg,LUX,-1000,Widespread
+Luxembourg,LUX,0,Widespread
+Luxembourg,LUX,1000,Widespread
+Luxembourg,LUX,1500,Widespread
+Luxembourg,LUX,1750,Minimal
+Luxembourg,LUX,1850,Minimal
+Madagascar,MDG,-8000,None
+Madagascar,MDG,-6000,None
+Madagascar,MDG,-4000,None
+Madagascar,MDG,-2000,None
+Madagascar,MDG,-1000,None
+Madagascar,MDG,0,None
+Madagascar,MDG,1000,Common
+Madagascar,MDG,1500,Common
+Madagascar,MDG,1750,Widespread
+Madagascar,MDG,1850,Widespread
+Malawi,MWI,-8000,None
+Malawi,MWI,-6000,None
+Malawi,MWI,-4000,None
+Malawi,MWI,-2000,None
+Malawi,MWI,-1000,None
+Malawi,MWI,0,Minimal
+Malawi,MWI,1000,Common
+Malawi,MWI,1500,Widespread
+Malawi,MWI,1750,Widespread
+Malawi,MWI,1850,Widespread
+Malaysia,MYS,-8000,None
+Malaysia,MYS,-6000,None
+Malaysia,MYS,-4000,None
+Malaysia,MYS,-2000,None
+Malaysia,MYS,-1000,None
+Malaysia,MYS,0,None
+Malaysia,MYS,1000,Minimal
+Malaysia,MYS,1500,Minimal
+Malaysia,MYS,1750,Common
+Malaysia,MYS,1850,Common
+Mali,MLI,-8000,None
+Mali,MLI,-6000,None
+Mali,MLI,-4000,None
+Mali,MLI,-2000,Minimal
+Mali,MLI,-1000,Widespread
+Mali,MLI,0,Widespread
+Mali,MLI,1000,Widespread
+Mali,MLI,1500,Widespread
+Mali,MLI,1750,Widespread
+Mali,MLI,1850,Widespread
+Mauritania,MRT,-8000,None
+Mauritania,MRT,-6000,None
+Mauritania,MRT,-4000,None
+Mauritania,MRT,-2000,Minimal
+Mauritania,MRT,-1000,Common
+Mauritania,MRT,0,Common
+Mauritania,MRT,1000,Minimal
+Mauritania,MRT,1500,None
+Mauritania,MRT,1750,None
+Mauritania,MRT,1850,None
+Melanesia,OWID_MNS,-8000,None
+Melanesia,OWID_MNS,-6000,None
+Melanesia,OWID_MNS,-4000,None
+Melanesia,OWID_MNS,-2000,Minimal
+Melanesia,OWID_MNS,-1000,Common
+Melanesia,OWID_MNS,0,Widespread
+Melanesia,OWID_MNS,1000,Widespread
+Melanesia,OWID_MNS,1500,Widespread
+Melanesia,OWID_MNS,1750,Widespread
+Melanesia,OWID_MNS,1850,Widespread
+Mexico,MEX,-8000,None
+Mexico,MEX,-6000,None
+Mexico,MEX,-4000,Minimal
+Mexico,MEX,-2000,Common
+Mexico,MEX,-1000,Common
+Mexico,MEX,0,Common
+Mexico,MEX,1000,Common
+Mexico,MEX,1500,Common
+Mexico,MEX,1750,Common
+Mexico,MEX,1850,Common
+Micronesia,,-8000,None
+Micronesia,,-6000,None
+Micronesia,,-4000,None
+Micronesia,,-2000,None
+Micronesia,,-1000,Minimal
+Micronesia,,0,Common
+Micronesia,,1000,Common
+Micronesia,,1500,Common
+Micronesia,,1750,Widespread
+Micronesia,,1850,Common
+Moldova,MDA,-8000,None
+Moldova,MDA,-6000,Common
+Moldova,MDA,-4000,Minimal
+Moldova,MDA,-2000,Minimal
+Moldova,MDA,-1000,Minimal
+Moldova,MDA,0,Minimal
+Moldova,MDA,1000,Common
+Moldova,MDA,1500,Minimal
+Moldova,MDA,1750,Minimal
+Moldova,MDA,1850,Minimal
+Mongolia,MNG,-8000,None
+Mongolia,MNG,-6000,Minimal
+Mongolia,MNG,-4000,None
+Mongolia,MNG,-2000,Minimal
+Mongolia,MNG,-1000,Minimal
+Mongolia,MNG,0,Minimal
+Mongolia,MNG,1000,Common
+Mongolia,MNG,1500,Minimal
+Mongolia,MNG,1750,Common
+Mongolia,MNG,1850,Common
+Montenegro,MNE,-8000,None
+Montenegro,MNE,-6000,Common
+Montenegro,MNE,-4000,Common
+Montenegro,MNE,-2000,Common
+Montenegro,MNE,-1000,Common
+Montenegro,MNE,0,Widespread
+Montenegro,MNE,1000,Common
+Montenegro,MNE,1500,Common
+Montenegro,MNE,1750,Common
+Montenegro,MNE,1850,Common
+Morocco,MAR,-8000,None
+Morocco,MAR,-6000,None
+Morocco,MAR,-4000,Minimal
+Morocco,MAR,-2000,Minimal
+Morocco,MAR,-1000,Minimal
+Morocco,MAR,0,Common
+Morocco,MAR,1000,Common
+Morocco,MAR,1500,Common
+Morocco,MAR,1750,Common
+Morocco,MAR,1850,Common
+Mozambique,MOZ,-8000,None
+Mozambique,MOZ,-6000,None
+Mozambique,MOZ,-4000,None
+Mozambique,MOZ,-2000,None
+Mozambique,MOZ,-1000,None
+Mozambique,MOZ,0,Minimal
+Mozambique,MOZ,1000,Common
+Mozambique,MOZ,1500,Widespread
+Mozambique,MOZ,1750,Widespread
+Mozambique,MOZ,1850,Widespread
+Myanmar,MMR,-8000,None
+Myanmar,MMR,-6000,None
+Myanmar,MMR,-4000,None
+Myanmar,MMR,-2000,Minimal
+Myanmar,MMR,-1000,Common
+Myanmar,MMR,0,Common
+Myanmar,MMR,1000,Common
+Myanmar,MMR,1500,Widespread
+Myanmar,MMR,1750,Widespread
+Myanmar,MMR,1850,Widespread
+Namibia,NAM,-8000,None
+Namibia,NAM,-6000,None
+Namibia,NAM,-4000,None
+Namibia,NAM,-2000,None
+Namibia,NAM,-1000,None
+Namibia,NAM,0,Minimal
+Namibia,NAM,1000,Minimal
+Namibia,NAM,1500,Minimal
+Namibia,NAM,1750,Minimal
+Namibia,NAM,1850,Minimal
+Nepal,NPL,-8000,None
+Nepal,NPL,-6000,None
+Nepal,NPL,-4000,Minimal
+Nepal,NPL,-2000,Minimal
+Nepal,NPL,-1000,Common
+Nepal,NPL,0,Common
+Nepal,NPL,1000,Common
+Nepal,NPL,1500,Common
+Nepal,NPL,1750,Common
+Nepal,NPL,1850,Common
+Netherlands,NLD,-8000,None
+Netherlands,NLD,-6000,None
+Netherlands,NLD,-4000,Widespread
+Netherlands,NLD,-2000,Widespread
+Netherlands,NLD,-1000,Widespread
+Netherlands,NLD,0,Widespread
+Netherlands,NLD,1000,Widespread
+Netherlands,NLD,1500,Widespread
+Netherlands,NLD,1750,Minimal
+Netherlands,NLD,1850,Minimal
+New Zealand,NZL,-8000,None
+New Zealand,NZL,-6000,None
+New Zealand,NZL,-4000,None
+New Zealand,NZL,-2000,None
+New Zealand,NZL,-1000,None
+New Zealand,NZL,0,None
+New Zealand,NZL,1000,None
+New Zealand,NZL,1500,Common
+New Zealand,NZL,1750,Common
+New Zealand,NZL,1850,Common
+Nicaragua,NIC,-8000,None
+Nicaragua,NIC,-6000,Minimal
+Nicaragua,NIC,-4000,Minimal
+Nicaragua,NIC,-2000,Common
+Nicaragua,NIC,-1000,Common
+Nicaragua,NIC,0,Widespread
+Nicaragua,NIC,1000,Widespread
+Nicaragua,NIC,1500,Widespread
+Nicaragua,NIC,1750,Widespread
+Nicaragua,NIC,1850,Widespread
+Niger,NER,-8000,None
+Niger,NER,-6000,None
+Niger,NER,-4000,None
+Niger,NER,-2000,None
+Niger,NER,-1000,Common
+Niger,NER,0,Common
+Niger,NER,1000,None
+Niger,NER,1500,None
+Niger,NER,1750,None
+Niger,NER,1850,None
+Nigeria,NGA,-8000,None
+Nigeria,NGA,-6000,None
+Nigeria,NGA,-4000,None
+Nigeria,NGA,-2000,None
+Nigeria,NGA,-1000,Common
+Nigeria,NGA,0,Widespread
+Nigeria,NGA,1000,Common
+Nigeria,NGA,1500,Common
+Nigeria,NGA,1750,Common
+Nigeria,NGA,1850,Common
+North Korea,PRK,-8000,None
+North Korea,PRK,-6000,Minimal
+North Korea,PRK,-4000,Minimal
+North Korea,PRK,-2000,Minimal
+North Korea,PRK,-1000,Widespread
+North Korea,PRK,0,Common
+North Korea,PRK,1000,Common
+North Korea,PRK,1500,Common
+North Korea,PRK,1750,Common
+North Korea,PRK,1850,Minimal
+North Macedonia,MKD,-8000,None
+North Macedonia,MKD,-6000,Common
+North Macedonia,MKD,-4000,Common
+North Macedonia,MKD,-2000,Common
+North Macedonia,MKD,-1000,Common
+North Macedonia,MKD,0,Widespread
+North Macedonia,MKD,1000,Common
+North Macedonia,MKD,1500,Common
+North Macedonia,MKD,1750,Common
+North Macedonia,MKD,1850,Common
+Oman,OMN,-8000,None
+Oman,OMN,-6000,None
+Oman,OMN,-4000,None
+Oman,OMN,-2000,Minimal
+Oman,OMN,-1000,Minimal
+Oman,OMN,0,Minimal
+Oman,OMN,1000,None
+Oman,OMN,1500,None
+Oman,OMN,1750,Minimal
+Oman,OMN,1850,Minimal
+Pakistan,PAK,-8000,None
+Pakistan,PAK,-6000,Minimal
+Pakistan,PAK,-4000,Minimal
+Pakistan,PAK,-2000,Common
+Pakistan,PAK,-1000,Common
+Pakistan,PAK,0,Minimal
+Pakistan,PAK,1000,Minimal
+Pakistan,PAK,1500,Minimal
+Pakistan,PAK,1750,Minimal
+Pakistan,PAK,1850,Minimal
+Palestine,PSE,-8000,Common
+Palestine,PSE,-6000,Common
+Palestine,PSE,-4000,Common
+Palestine,PSE,-2000,Common
+Palestine,PSE,-1000,Common
+Palestine,PSE,0,Common
+Palestine,PSE,1000,Common
+Palestine,PSE,1500,Common
+Palestine,PSE,1750,Common
+Palestine,PSE,1850,Common
+Panama,PAN,-8000,None
+Panama,PAN,-6000,Minimal
+Panama,PAN,-4000,Minimal
+Panama,PAN,-2000,Common
+Panama,PAN,-1000,Common
+Panama,PAN,0,Widespread
+Panama,PAN,1000,Widespread
+Panama,PAN,1500,Widespread
+Panama,PAN,1750,Widespread
+Panama,PAN,1850,Widespread
+Papua New Guinea,PNG,-8000,None
+Papua New Guinea,PNG,-6000,Minimal
+Papua New Guinea,PNG,-4000,Minimal
+Papua New Guinea,PNG,-2000,Common
+Papua New Guinea,PNG,-1000,Common
+Papua New Guinea,PNG,0,Common
+Papua New Guinea,PNG,1000,Common
+Papua New Guinea,PNG,1500,Common
+Papua New Guinea,PNG,1750,Widespread
+Papua New Guinea,PNG,1850,Widespread
+Philippines,PHL,-8000,None
+Philippines,PHL,-6000,None
+Philippines,PHL,-4000,None
+Philippines,PHL,-2000,Minimal
+Philippines,PHL,-1000,Common
+Philippines,PHL,0,Common
+Philippines,PHL,1000,Common
+Philippines,PHL,1500,Widespread
+Philippines,PHL,1750,Widespread
+Philippines,PHL,1850,Widespread
+Poland,POL,-8000,None
+Poland,POL,-6000,Common
+Poland,POL,-4000,Widespread
+Poland,POL,-2000,Widespread
+Poland,POL,-1000,Widespread
+Poland,POL,0,Widespread
+Poland,POL,1000,Widespread
+Poland,POL,1500,Widespread
+Poland,POL,1750,Widespread
+Poland,POL,1850,Widespread
+Polynesia,OWID_PYA,-8000,None
+Polynesia,OWID_PYA,-6000,None
+Polynesia,OWID_PYA,-4000,None
+Polynesia,OWID_PYA,-2000,None
+Polynesia,OWID_PYA,-1000,Common
+Polynesia,OWID_PYA,0,Common
+Polynesia,OWID_PYA,1000,Common
+Polynesia,OWID_PYA,1500,Common
+Polynesia,OWID_PYA,1750,Common
+Polynesia,OWID_PYA,1850,Common
+Portugal,PRT,-8000,None
+Portugal,PRT,-6000,None
+Portugal,PRT,-4000,Common
+Portugal,PRT,-2000,Widespread
+Portugal,PRT,-1000,Widespread
+Portugal,PRT,0,Widespread
+Portugal,PRT,1000,Widespread
+Portugal,PRT,1500,Widespread
+Portugal,PRT,1750,Widespread
+Portugal,PRT,1850,Widespread
+Romania,ROU,-8000,None
+Romania,ROU,-6000,Common
+Romania,ROU,-4000,Minimal
+Romania,ROU,-2000,Minimal
+Romania,ROU,-1000,Minimal
+Romania,ROU,0,Minimal
+Romania,ROU,1000,Common
+Romania,ROU,1500,Minimal
+Romania,ROU,1750,Minimal
+Romania,ROU,1850,Minimal
+Russia,RUS,-8000,None
+Russia,RUS,-6000,None
+Russia,RUS,-4000,None
+Russia,RUS,-2000,None
+Russia,RUS,-1000,Minimal
+Russia,RUS,0,Minimal
+Russia,RUS,1000,Minimal
+Russia,RUS,1500,Minimal
+Russia,RUS,1750,Minimal
+Russia,RUS,1850,Minimal
+Rwanda,RWA,-8000,None
+Rwanda,RWA,-6000,None
+Rwanda,RWA,-4000,None
+Rwanda,RWA,-2000,None
+Rwanda,RWA,-1000,None
+Rwanda,RWA,0,Common
+Rwanda,RWA,1000,Common
+Rwanda,RWA,1500,Widespread
+Rwanda,RWA,1750,Widespread
+Rwanda,RWA,1850,Widespread
+Saint Kitts and Nevis,KNA,-8000,None
+Saint Kitts and Nevis,KNA,-6000,None
+Saint Kitts and Nevis,KNA,-4000,None
+Saint Kitts and Nevis,KNA,-2000,Minimal
+Saint Kitts and Nevis,KNA,-1000,Minimal
+Saint Kitts and Nevis,KNA,0,Common
+Saint Kitts and Nevis,KNA,1000,Common
+Saint Kitts and Nevis,KNA,1500,Common
+Saint Kitts and Nevis,KNA,1750,Common
+Saint Kitts and Nevis,KNA,1850,Common
+Saint Lucia,LCA,-8000,None
+Saint Lucia,LCA,-6000,None
+Saint Lucia,LCA,-4000,None
+Saint Lucia,LCA,-2000,Minimal
+Saint Lucia,LCA,-1000,Minimal
+Saint Lucia,LCA,0,Common
+Saint Lucia,LCA,1000,Common
+Saint Lucia,LCA,1500,Common
+Saint Lucia,LCA,1750,Common
+Saint Lucia,LCA,1850,Common
+Saint Vincent and the Grenadines,VCT,-8000,None
+Saint Vincent and the Grenadines,VCT,-6000,None
+Saint Vincent and the Grenadines,VCT,-4000,None
+Saint Vincent and the Grenadines,VCT,-2000,Minimal
+Saint Vincent and the Grenadines,VCT,-1000,Minimal
+Saint Vincent and the Grenadines,VCT,0,Common
+Saint Vincent and the Grenadines,VCT,1000,Common
+Saint Vincent and the Grenadines,VCT,1500,Common
+Saint Vincent and the Grenadines,VCT,1750,Common
+Saint Vincent and the Grenadines,VCT,1850,Common
+Saudi Arabia,SAU,-8000,None
+Saudi Arabia,SAU,-6000,None
+Saudi Arabia,SAU,-4000,Minimal
+Saudi Arabia,SAU,-2000,Minimal
+Saudi Arabia,SAU,-1000,Minimal
+Saudi Arabia,SAU,0,Minimal
+Saudi Arabia,SAU,1000,Minimal
+Saudi Arabia,SAU,1500,Minimal
+Saudi Arabia,SAU,1750,Minimal
+Saudi Arabia,SAU,1850,Minimal
+Senegal,SEN,-8000,None
+Senegal,SEN,-6000,None
+Senegal,SEN,-4000,None
+Senegal,SEN,-2000,None
+Senegal,SEN,-1000,None
+Senegal,SEN,0,Widespread
+Senegal,SEN,1000,Widespread
+Senegal,SEN,1500,Common
+Senegal,SEN,1750,Common
+Senegal,SEN,1850,Common
+Serbia,SRB,-8000,None
+Serbia,SRB,-6000,Common
+Serbia,SRB,-4000,Common
+Serbia,SRB,-2000,Common
+Serbia,SRB,-1000,Common
+Serbia,SRB,0,Widespread
+Serbia,SRB,1000,Common
+Serbia,SRB,1500,Common
+Serbia,SRB,1750,Common
+Serbia,SRB,1850,Common
+Sierra Leone,SLE,-8000,None
+Sierra Leone,SLE,-6000,None
+Sierra Leone,SLE,-4000,None
+Sierra Leone,SLE,-2000,None
+Sierra Leone,SLE,-1000,None
+Sierra Leone,SLE,0,Widespread
+Sierra Leone,SLE,1000,Common
+Sierra Leone,SLE,1500,Minimal
+Sierra Leone,SLE,1750,Common
+Sierra Leone,SLE,1850,Common
+Slovakia,SVK,-8000,None
+Slovakia,SVK,-6000,Common
+Slovakia,SVK,-4000,Widespread
+Slovakia,SVK,-2000,Widespread
+Slovakia,SVK,-1000,Widespread
+Slovakia,SVK,0,Widespread
+Slovakia,SVK,1000,Widespread
+Slovakia,SVK,1500,Widespread
+Slovakia,SVK,1750,Widespread
+Slovakia,SVK,1850,Widespread
+Slovenia,SVN,-8000,None
+Slovenia,SVN,-6000,Common
+Slovenia,SVN,-4000,Common
+Slovenia,SVN,-2000,Common
+Slovenia,SVN,-1000,Common
+Slovenia,SVN,0,Widespread
+Slovenia,SVN,1000,Common
+Slovenia,SVN,1500,Common
+Slovenia,SVN,1750,Common
+Slovenia,SVN,1850,Common
+Somalia,SOM,-8000,None
+Somalia,SOM,-6000,None
+Somalia,SOM,-4000,None
+Somalia,SOM,-2000,None
+Somalia,SOM,-1000,None
+Somalia,SOM,0,Minimal
+Somalia,SOM,1000,Common
+Somalia,SOM,1500,Widespread
+Somalia,SOM,1750,Widespread
+Somalia,SOM,1850,Widespread
+South Africa,ZAF,-8000,None
+South Africa,ZAF,-6000,None
+South Africa,ZAF,-4000,None
+South Africa,ZAF,-2000,None
+South Africa,ZAF,-1000,None
+South Africa,ZAF,0,None
+South Africa,ZAF,1000,Common
+South Africa,ZAF,1500,Widespread
+South Africa,ZAF,1750,Widespread
+South Africa,ZAF,1850,Widespread
+South Korea,KOR,-8000,None
+South Korea,KOR,-6000,Minimal
+South Korea,KOR,-4000,Minimal
+South Korea,KOR,-2000,Minimal
+South Korea,KOR,-1000,Widespread
+South Korea,KOR,0,Common
+South Korea,KOR,1000,Common
+South Korea,KOR,1500,Common
+South Korea,KOR,1750,Common
+South Korea,KOR,1850,Minimal
+South Sudan,SSD,-8000,None
+South Sudan,SSD,-6000,None
+South Sudan,SSD,-4000,None
+South Sudan,SSD,-2000,Minimal
+South Sudan,SSD,-1000,Widespread
+South Sudan,SSD,0,Widespread
+South Sudan,SSD,1000,Widespread
+South Sudan,SSD,1500,Widespread
+South Sudan,SSD,1750,Widespread
+South Sudan,SSD,1850,Widespread
+Spain,ESP,-8000,None
+Spain,ESP,-6000,None
+Spain,ESP,-4000,Common
+Spain,ESP,-2000,Widespread
+Spain,ESP,-1000,Widespread
+Spain,ESP,0,Widespread
+Spain,ESP,1000,Widespread
+Spain,ESP,1500,Widespread
+Spain,ESP,1750,Widespread
+Spain,ESP,1850,Widespread
+Sri Lanka,LKA,-8000,None
+Sri Lanka,LKA,-6000,None
+Sri Lanka,LKA,-4000,None
+Sri Lanka,LKA,-2000,None
+Sri Lanka,LKA,-1000,Common
+Sri Lanka,LKA,0,Common
+Sri Lanka,LKA,1000,Widespread
+Sri Lanka,LKA,1500,Widespread
+Sri Lanka,LKA,1750,Widespread
+Sri Lanka,LKA,1850,Widespread
+Sudan,SDN,-8000,None
+Sudan,SDN,-6000,None
+Sudan,SDN,-4000,Common
+Sudan,SDN,-2000,Common
+Sudan,SDN,-1000,Common
+Sudan,SDN,0,Common
+Sudan,SDN,1000,Common
+Sudan,SDN,1500,Common
+Sudan,SDN,1750,Common
+Sudan,SDN,1850,Common
+Suriname,SUR,-8000,None
+Suriname,SUR,-6000,None
+Suriname,SUR,-4000,None
+Suriname,SUR,-2000,Minimal
+Suriname,SUR,-1000,Minimal
+Suriname,SUR,0,Common
+Suriname,SUR,1000,Common
+Suriname,SUR,1500,Common
+Suriname,SUR,1750,Common
+Suriname,SUR,1850,Common
+Sweden,SWE,-8000,None
+Sweden,SWE,-6000,None
+Sweden,SWE,-4000,Common
+Sweden,SWE,-2000,Common
+Sweden,SWE,-1000,Common
+Sweden,SWE,0,Common
+Sweden,SWE,1000,Common
+Sweden,SWE,1500,Common
+Sweden,SWE,1750,Common
+Sweden,SWE,1850,Common
+Switzerland,CHE,-8000,None
+Switzerland,CHE,-6000,None
+Switzerland,CHE,-4000,Widespread
+Switzerland,CHE,-2000,Widespread
+Switzerland,CHE,-1000,Widespread
+Switzerland,CHE,0,Widespread
+Switzerland,CHE,1000,Widespread
+Switzerland,CHE,1500,Widespread
+Switzerland,CHE,1750,Minimal
+Switzerland,CHE,1850,Minimal
+Syria,SYR,-8000,Common
+Syria,SYR,-6000,Common
+Syria,SYR,-4000,Common
+Syria,SYR,-2000,Common
+Syria,SYR,-1000,Common
+Syria,SYR,0,Common
+Syria,SYR,1000,Common
+Syria,SYR,1500,Common
+Syria,SYR,1750,Common
+Syria,SYR,1850,Common
+Taiwan,TWN,-8000,None
+Taiwan,TWN,-6000,None
+Taiwan,TWN,-4000,Minimal
+Taiwan,TWN,-2000,Common
+Taiwan,TWN,-1000,Widespread
+Taiwan,TWN,0,Widespread
+Taiwan,TWN,1000,Widespread
+Taiwan,TWN,1500,Widespread
+Taiwan,TWN,1750,Widespread
+Taiwan,TWN,1850,Widespread
+Tajikistan,TJK,-8000,None
+Tajikistan,TJK,-6000,None
+Tajikistan,TJK,-4000,None
+Tajikistan,TJK,-2000,Widespread
+Tajikistan,TJK,-1000,Widespread
+Tajikistan,TJK,0,Common
+Tajikistan,TJK,1000,Common
+Tajikistan,TJK,1500,Widespread
+Tajikistan,TJK,1750,Widespread
+Tajikistan,TJK,1850,Common
+Tanzania,TZA,-8000,None
+Tanzania,TZA,-6000,None
+Tanzania,TZA,-4000,None
+Tanzania,TZA,-2000,None
+Tanzania,TZA,-1000,None
+Tanzania,TZA,0,Minimal
+Tanzania,TZA,1000,Common
+Tanzania,TZA,1500,Widespread
+Tanzania,TZA,1750,Common
+Tanzania,TZA,1850,Widespread
+Thailand,THA,-8000,None
+Thailand,THA,-6000,None
+Thailand,THA,-4000,Minimal
+Thailand,THA,-2000,Common
+Thailand,THA,-1000,Common
+Thailand,THA,0,Widespread
+Thailand,THA,1000,Widespread
+Thailand,THA,1500,Widespread
+Thailand,THA,1750,Widespread
+Thailand,THA,1850,Widespread
+Togo,TGO,-8000,None
+Togo,TGO,-6000,None
+Togo,TGO,-4000,None
+Togo,TGO,-2000,Minimal
+Togo,TGO,-1000,Minimal
+Togo,TGO,0,Common
+Togo,TGO,1000,Common
+Togo,TGO,1500,Minimal
+Togo,TGO,1750,Minimal
+Togo,TGO,1850,Minimal
+Trinidad and Tobago,TTO,-8000,None
+Trinidad and Tobago,TTO,-6000,None
+Trinidad and Tobago,TTO,-4000,None
+Trinidad and Tobago,TTO,-2000,Minimal
+Trinidad and Tobago,TTO,-1000,Minimal
+Trinidad and Tobago,TTO,0,Common
+Trinidad and Tobago,TTO,1000,Common
+Trinidad and Tobago,TTO,1500,Common
+Trinidad and Tobago,TTO,1750,Common
+Trinidad and Tobago,TTO,1850,Common
+Tunisia,TUN,-8000,None
+Tunisia,TUN,-6000,None
+Tunisia,TUN,-4000,None
+Tunisia,TUN,-2000,Common
+Tunisia,TUN,-1000,Minimal
+Tunisia,TUN,0,Minimal
+Tunisia,TUN,1000,Minimal
+Tunisia,TUN,1500,Minimal
+Tunisia,TUN,1750,Minimal
+Tunisia,TUN,1850,None
+Turkey,TUR,-8000,Minimal
+Turkey,TUR,-6000,Common
+Turkey,TUR,-4000,Common
+Turkey,TUR,-2000,Widespread
+Turkey,TUR,-1000,Widespread
+Turkey,TUR,0,Common
+Turkey,TUR,1000,Widespread
+Turkey,TUR,1500,Widespread
+Turkey,TUR,1750,Common
+Turkey,TUR,1850,Common
+Turkmenistan,TKM,-8000,None
+Turkmenistan,TKM,-6000,None
+Turkmenistan,TKM,-4000,None
+Turkmenistan,TKM,-2000,Widespread
+Turkmenistan,TKM,-1000,Widespread
+Turkmenistan,TKM,0,Common
+Turkmenistan,TKM,1000,Common
+Turkmenistan,TKM,1500,Widespread
+Turkmenistan,TKM,1750,Widespread
+Turkmenistan,TKM,1850,Common
+Uganda,UGA,-8000,None
+Uganda,UGA,-6000,None
+Uganda,UGA,-4000,None
+Uganda,UGA,-2000,None
+Uganda,UGA,-1000,None
+Uganda,UGA,0,Common
+Uganda,UGA,1000,Common
+Uganda,UGA,1500,Widespread
+Uganda,UGA,1750,Widespread
+Uganda,UGA,1850,Widespread
+Ukraine,UKR,-8000,None
+Ukraine,UKR,-6000,None
+Ukraine,UKR,-4000,Common
+Ukraine,UKR,-2000,Common
+Ukraine,UKR,-1000,Common
+Ukraine,UKR,0,Widespread
+Ukraine,UKR,1000,Common
+Ukraine,UKR,1500,Common
+Ukraine,UKR,1750,Common
+Ukraine,UKR,1850,Widespread
+United Arab Emirates,ARE,-8000,None
+United Arab Emirates,ARE,-6000,None
+United Arab Emirates,ARE,-4000,None
+United Arab Emirates,ARE,-2000,Minimal
+United Arab Emirates,ARE,-1000,Minimal
+United Arab Emirates,ARE,0,Minimal
+United Arab Emirates,ARE,1000,None
+United Arab Emirates,ARE,1500,None
+United Arab Emirates,ARE,1750,Minimal
+United Arab Emirates,ARE,1850,Minimal
+United Kingdom,GBR,-8000,None
+United Kingdom,GBR,-6000,None
+United Kingdom,GBR,-4000,Minimal
+United Kingdom,GBR,-2000,Common
+United Kingdom,GBR,-1000,Widespread
+United Kingdom,GBR,0,Widespread
+United Kingdom,GBR,1000,Widespread
+United Kingdom,GBR,1500,Widespread
+United Kingdom,GBR,1750,Widespread
+United Kingdom,GBR,1850,Widespread
+United States,USA,-8000,None
+United States,USA,-6000,None
+United States,USA,-4000,None
+United States,USA,-2000,Minimal
+United States,USA,-1000,Minimal
+United States,USA,0,Common
+United States,USA,1000,Common
+United States,USA,1500,Common
+United States,USA,1750,Common
+United States,USA,1850,Common
+Uzbekistan,UZB,-8000,None
+Uzbekistan,UZB,-6000,None
+Uzbekistan,UZB,-4000,None
+Uzbekistan,UZB,-2000,Widespread
+Uzbekistan,UZB,-1000,Widespread
+Uzbekistan,UZB,0,Common
+Uzbekistan,UZB,1000,Common
+Uzbekistan,UZB,1500,Widespread
+Uzbekistan,UZB,1750,Widespread
+Uzbekistan,UZB,1850,Common
+Vietnam,VNM,-8000,None
+Vietnam,VNM,-6000,None
+Vietnam,VNM,-4000,None
+Vietnam,VNM,-2000,Minimal
+Vietnam,VNM,-1000,Common
+Vietnam,VNM,0,Common
+Vietnam,VNM,1000,Common
+Vietnam,VNM,1500,Widespread
+Vietnam,VNM,1750,Widespread
+Vietnam,VNM,1850,Widespread
+Yemen,YEM,-8000,None
+Yemen,YEM,-6000,None
+Yemen,YEM,-4000,None
+Yemen,YEM,-2000,Minimal
+Yemen,YEM,-1000,Minimal
+Yemen,YEM,0,Minimal
+Yemen,YEM,1000,None
+Yemen,YEM,1500,None
+Yemen,YEM,1750,Minimal
+Yemen,YEM,1850,Minimal
+Zambia,ZMB,-8000,None
+Zambia,ZMB,-6000,None
+Zambia,ZMB,-4000,None
+Zambia,ZMB,-2000,None
+Zambia,ZMB,-1000,None
+Zambia,ZMB,0,Minimal
+Zambia,ZMB,1000,Common
+Zambia,ZMB,1500,Widespread
+Zambia,ZMB,1750,Widespread
+Zambia,ZMB,1850,Widespread
+Zimbabwe,ZWE,-8000,None
+Zimbabwe,ZWE,-6000,None
+Zimbabwe,ZWE,-4000,None
+Zimbabwe,ZWE,-2000,None
+Zimbabwe,ZWE,-1000,None
+Zimbabwe,ZWE,0,Minimal
+Zimbabwe,ZWE,1000,Common
+Zimbabwe,ZWE,1500,Widespread
+Zimbabwe,ZWE,1750,Widespread
+Zimbabwe,ZWE,1850,Widespread
