@@ -815,8 +815,6 @@ if page == pages[5]:
     ridge_model = load('joblib/ridge_model.joblib')
     ridge_model_opti = load('joblib/ridge_opti.joblib')
     elasticnet_model = load('joblib/elasticnet_model.joblib')
-    xgb_r = load('joblib/xgb_r.joblib')
-    xgb_r_opti = load('joblib/xgb_r_opti.joblib')
 
     st.title("Modélisation")
     st.header("Nos modèles")
@@ -889,8 +887,6 @@ if page == pages[5]:
     predictions_ridge_opti = ridge_model_opti.predict(df_test_scaled)
 
     predictions_elasticnet = elasticnet_model.predict(df_test_scaled)
-    predictions_xgb = xgb_r.predict(df_test_scaled)
-    predictions_xgb_opti = xgb_r_opti.predict(df_test_scaled)
 
     p_predictions = figure(width=1000, height=600, title = "Déviation de la température terrestre au cours des années")
 
@@ -901,7 +897,6 @@ if page == pages[5]:
     p_predictions.line(x = range(2023,2051,1), y = predictions_lasso, color='purple',legend_label='Lasso')
     p_predictions.line(x = range(2023,2051,1), y = predictions_ridge, color='orange',legend_label='Ridge')
     p_predictions.line(x = range(2023,2051,1), y = predictions_elasticnet, color='blue',legend_label='ElasticNet')
-    p_predictions.line(x = range(2023,2051,1), y = predictions_xgb, color='grey',legend_label='XGB')
     p_predictions.legend.click_policy="hide"
     p_predictions.yaxis.axis_label = "Déviation en °C"
     p_predictions.xaxis.axis_label = "Année"
@@ -923,7 +918,6 @@ if page == pages[5]:
     p_predictions2.line(x = range(2023,2051,1), y = predictions_lasso + 0.5, color='purple',legend_label='Lasso')
     p_predictions2.line(x = range(2023,2051,1), y = predictions_ridge + 0.5, color='orange',legend_label='Ridge')
     p_predictions2.line(x = range(2023,2051,1), y = predictions_elasticnet + 0.5, color='blue',legend_label='ElasticNet')
-    p_predictions2.line(x = range(2023,2051,1), y = predictions_xgb + 0.5, color='grey',legend_label='XGB')
     p_predictions2.legend.click_policy="hide"
     p_predictions2.yaxis.axis_label = "Déviation en °C"
     p_predictions2.xaxis.axis_label = "Année"
@@ -958,9 +952,7 @@ if page == pages[5]:
                 'Lasso':[predictions_lasso[-1]+0.5],
                 'Ridge':[predictions_ridge[-1]+0.5],
                 'Ridge Opti':[predictions_ridge_opti[-1]+0.5],
-                'ElasticNet':[predictions_elasticnet[-1]+0.5],
-                'XGB Regressor':[predictions_xgb[-1]+0.5],
-                'XGB Reg. Opti':[predictions_xgb_opti[-1]+0.5]
+                'ElasticNet':[predictions_elasticnet[-1]+0.5]
     }
     df_predictions = pd.DataFrame(data = predictions)
     df_predictions.index = ['Déviation de la température terrestre en °C en 2050 ']
@@ -975,8 +967,6 @@ if page == pages[6]:
   ridge_model = load('joblib/ridge_model.joblib')
   ridge_model_opti = load('joblib/ridge_opti.joblib')
   elasticnet_model = load('joblib/elasticnet_model.joblib')
-  xgb_r = load('joblib/xgb_r.joblib')
-  xgb_r_opti = load('joblib/xgb_r_opti.joblib')
 
   predictions_linear = linear_model.predict(df_test_scaled)
   predictions_decisiontree = decisiontree_model.predict(df_test_scaled)
@@ -986,8 +976,6 @@ if page == pages[6]:
   predictions_ridge_opti = ridge_model_opti.predict(df_test_scaled)
 
   predictions_elasticnet = elasticnet_model.predict(df_test_scaled)
-  predictions_xgb = xgb_r.predict(df_test_scaled)
-  predictions_xgb_opti = xgb_r_opti.predict(df_test_scaled)
 
 
   st.title("Conclusion") 
