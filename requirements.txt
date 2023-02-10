@@ -7,4 +7,4 @@ bokeh
 joblib
 xgboost
 requests
-sklearn
+scikit-learn
