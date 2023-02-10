@@ -8,7 +8,6 @@ from bokeh.io import curdoc
 from bokeh.plotting import figure
 from bokeh.models.annotations import Span
 from joblib import load
-from xgboost import XGBRegressor
 
 st.set_page_config(page_title="Réchauffement Climatique",page_icon="pics/datascientest.png",layout="wide")
 
@@ -934,8 +933,6 @@ if page == pages[5]:
     p_predictions3.line(x = df_global['Year'], y = df_global['J-D'])
     p_predictions3.line(x = range(2023,2051,1), y = predictions_ridge + 0.5, color='orange',legend_label='Ridge')
     p_predictions3.line(x = range(2023,2051,1), y = predictions_ridge_opti + 0.5, color='orange',width=2,legend_label='Ridge Opti')
-    p_predictions3.line(x = range(2023,2051,1), y = predictions_xgb + 0.5, color='grey',legend_label='XGB')
-    p_predictions3.line(x = range(2023,2051,1), y = predictions_xgb_opti + 0.5, color='grey',width=2,legend_label='XGB Opti')
     p_predictions3.legend.click_policy="hide"
     p_predictions3.yaxis.axis_label = "Déviation en °C"
     p_predictions3.xaxis.axis_label = "Année"
